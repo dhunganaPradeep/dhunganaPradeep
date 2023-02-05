@@ -20,7 +20,7 @@ I believe in constantly growing and learning, both professionally and personally
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://www.youtube.com/@pdvlogs9610?sub_confirmation=1">
- <img alt="youtube subscribers" width="30px" style="padding-right:10px; title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCOykBOlIIwYkKBYUZjHpe1Q?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+ <img alt="youtube subscribers" width="60px" style="padding-right:10px; title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCOykBOlIIwYkKBYUZjHpe1Q?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
 <a href="https://instagram.com/https://www.instagram.com/pradeep_dhungana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pradeep_dhungana/" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pradip-dhungana-a99773244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pradip-dhungana-a99773244/" height="30" width="40" /></a>
 </p>
