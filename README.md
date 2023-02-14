@@ -8,7 +8,7 @@
 
 In my free time, I enjoy spending time in nature. I also like to travel, watch movies, listen to music, and write. I have a special interest in music, art, and new inventions, and my goal is to learn to play the guitar someday.
 
-Thanks for landing here. I'm grateful for the chance to introduce myself and look forward to future opportunities.
+Thanks for landing here.
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/dhunganaPradeep](https://github.com/dhunganaPradeep)
