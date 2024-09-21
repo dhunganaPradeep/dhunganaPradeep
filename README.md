@@ -1,17 +1,9 @@
-![MasterHead](https://github.com/dhunganaPradeep/dhunganaPradeep/blob/main/myGif.gif)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhunganapradeep&label=Profile%20views&color=0e75b6&style=flat" alt="dhunganapradeep" /> </p>
-
 ### Hi there 👋
 
- I'm Pradip from beautiful city of Pokhara in Nepal. I'm currently studying software engineering and have a passion for creating innovative software solutions. I love learning and expanding my skills through open source projects and hands-on experience.
-
-In my free time, I enjoy spending time in nature. I also like to travel, watch movies, listen to music, and write. I have a special interest in music, art, and new inventions, and my goal is to learn to play the guitar someday.
+ I'm Pradip from beautiful city of Pokhara in Nepal.
 
 Thanks for landing here.
 
-
-- 👨‍💻 All of my projects are available at [https://github.com/dhunganaPradeep](https://github.com/dhunganaPradeep)
 
 - 📫 How to reach me **dhungana.pradip188@gmail.com**
 
